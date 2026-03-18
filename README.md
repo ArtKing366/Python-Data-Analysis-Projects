@@ -9,7 +9,7 @@ This repository contains exploratory data analysis (EDA) projects using Python t
 Exploratory analysis of a synthetic banking transactions dataset (50,000 records) to understand transaction behavior and identify potential indicators of unusual activity. The project includes data cleaning, feature exploration, visualization of distributions, and correlation analysis using **Pandas, Matplotlib, and Seaborn**.
 
 📊 **Open the notebook:**
-[Bank Transactions Analysis](Bank_Transactions/bank_transactions.ipynb)
+[Bank Transactions Analysis](01_Bank_Transactions_Analysis/bank_transactions.ipynb)
 
 📂 **Dataset source:**
 https://www.kaggle.com/datasets/thuandao/bank-transactions-dataset-for-fraud-detection

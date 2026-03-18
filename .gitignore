@@ -6,4 +6,6 @@ notation.md
 *.pyc
 srcignore/
 
+Data/
+
 
